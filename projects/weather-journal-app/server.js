@@ -1,3 +1,11 @@
+//Note:
+//To run this project 
+//terminal: 
+//cd ~/Desktop/UdaWeatherAPI/weather-journal-app/projects/weather-journal-app
+//node ./server.js
+
+
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
